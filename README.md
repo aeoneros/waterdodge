@@ -20,9 +20,8 @@ Huge Shoutout to my new Friend @RickStoner from Canada who helped me alot unders
 
 
 
-
-CHANGELOGS
 - sadly i didnt do changelog from beginning, so i start now (V6) even its too late
+CHANGELOGS
 ________________________________________________________
 V6
 - added admin options to Stage layer
