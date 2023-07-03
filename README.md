@@ -38,23 +38,23 @@ V8
 - added lvl completed screen as backdrop    (needed some fun in between haha)
 
 V9
--changed made sure to spawn     /1 fish in lvl 1   /2 in lvl 2    /3 in lvl 3
--changed also made the balancing better
+- changed made sure to spawn     /1 fish in lvl 1   /2 in lvl 2    /3 in lvl 3
+- changed also made the balancing better
 
 V 1.2.1
--changed LVL-Menu BG Text from "Level Select" to "Select Level"
--changed made sure to stop coin spawning after lvl completed -> in health UI
+- changed LVL-Menu BG Text from "Level Select" to "Select Level"
+- changed made sure to stop coin spawning after lvl completed -> in health UI
 
--added multiple texts to main screen & textchanges when joining diffent level
--added coinspawner / added Scoresystem 
--added all functions/hide and show stuff for lvl_completed screen
--added broadcast hide_coin / hide_enemy for lvl_completed
--added show score to lvl completed
--added map border for player (i know its not working great but its ok)
+- added multiple texts to main screen & textchanges when joining diffent level
+- added coinspawner / added Scoresystem 
+- added all functions/hide and show stuff for lvl_completed screen
+- added broadcast hide_coin / hide_enemy for lvl_completed
+- added show score to lvl completed
+- added map border for player (i know its not working great but its ok)
 
 V 1.2.2 (final version)
--changed some sounds
--changed game balancing again
+- changed some sounds
+- changed game balancing again
 
--fixed after completing lvl 2/3 "Fish_1/2/3_SPAWNING" was still active i did change
+- fixed after completing lvl 2/3 "Fish_1/2/3_SPAWNING" was still active i did change
 that in the stages now in "switch backdrop to lvl_completed"
