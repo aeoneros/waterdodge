@@ -1,4 +1,4 @@
-# waterdodge
+# Waterdodge V1.2.2 Infos
 check out the readme for me infos
 
 - Controls:  Arrow Buttons
