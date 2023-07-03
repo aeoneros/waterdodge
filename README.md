@@ -1,5 +1,4 @@
 # Waterdodge V1.2.2 Infos
-check out the readme for me infos
 
 - Controls:  Arrow Buttons
 - Goal:      Find 10 coins an complete the Levels
